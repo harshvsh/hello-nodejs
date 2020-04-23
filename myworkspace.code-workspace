@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "../fork-do11/DO101-apps"
 		}
 	]
 }
